@@ -19,3 +19,4 @@
 1. [从程序员的角度说统计学习方法概论](https://zhuanlan.zhihu.com/p/22303625)
 1. [李航-统计学习方法学习笔记-第一章](http://blog.csdn.net/hdu_lazy_man/article/details/62050209)
 1. [《统计学习方法》学习笔记](https://www.cnblogs.com/fingertap/p/4570596.html)
+1. [统计学习方法读书笔记](https://zhuanlan.zhihu.com/p/24245115)
