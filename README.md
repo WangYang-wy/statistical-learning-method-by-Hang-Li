@@ -2,6 +2,8 @@
 
 《统计学习方法》李航
 
+***由于笔记里存在公式编辑，请自行下载chrome的扩展程序[GitHub with MathJax](https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima)。***
+
 ## 电子书下载地址
 
 1. [统计学习方法.pdf_微盘下载](http://vdisk.weibo.com/s/vfFpMc1YgPOr)
